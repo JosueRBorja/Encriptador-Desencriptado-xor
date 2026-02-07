@@ -9,4 +9,4 @@ Script en Python que implementa cifrado XOR básico.
 
 ## Ejecución
 ```bash
-python cifrador.py
+python xor_cipher.py
